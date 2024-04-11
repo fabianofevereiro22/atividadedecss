@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+body{
+    background-color: pink;
+}
+.box2{
+    border: 2px solid color rgb(255, 255, 255);
+    width: 600px;
+    
+    background-color: rgb(255, 192, 241);
+    font-size: 30px;
+}
+nav a{
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5px;
+}
